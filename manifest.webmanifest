@@ -1,0 +1,10 @@
+{
+  "name": "MeOH Verify",
+  "short_name": "MeOH",
+  "description": "Neutral verification for waste-based biofuel feedstocks",
+  "start_url": "/zh-CN/driver",
+  "display": "standalone",
+  "background_color": "#f8fafc",
+  "theme_color": "#047857",
+  "icons": [{ "src": "/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }]
+}
